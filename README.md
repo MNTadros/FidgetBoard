@@ -24,3 +24,5 @@ Check out the full live documentation (images, model viewer, BOM, and more) [her
   <img src="https://raw.githubusercontent.com/MNTadros/FidgetBoard/refs/heads/main/DOCS/IMGS/front.png" alt="FidgetBoard Front" width="300"/>
   <img src="https://raw.githubusercontent.com/MNTadros/FidgetBoard/refs/heads/main/DOCS/IMGS/back.png" alt="FidgetBoard Back" width="300"/>
 </p>
+
+![image](https://github.com/user-attachments/assets/fedf1eb5-f055-47b7-a967-f26ebea76f26)
