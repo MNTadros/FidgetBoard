@@ -1,0 +1,21 @@
+Bill of Materials (BOM)
+
+1. Item: L08R5000Q1
+    Designators: D5, D6, D4, D1, D3, D2
+    Footprint: LEDRD254W57D500H1070
+    Quantity: 6
+
+2. Item: XIAO-RP2040-DIP
+    Designators: U1
+    Footprint: XIAO-RP2040-DIP
+    Quantity: 1
+
+3. Item: Resistor (220Ω)
+    Designators: R6, R1, R2, R5, R3, R4
+    Footprint: R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+    Quantity: 6
+
+4. Item: SW_Push
+    Designators: SW3, SW2, SW1
+    Footprint: SW_Cherry_MX_1.00u_PCB
+    Quantity: 3
