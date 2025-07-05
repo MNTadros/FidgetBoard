@@ -21,6 +21,6 @@ Check out the full live documentation (images, model viewer, BOM, and more) [her
 ## 📷 Preview
 
 <p align="center">
-  <img src="./IMGS/front.png" alt="FidgetBoard Front" width="300"/>
-  <img src="./IMGS/back.png" alt="FidgetBoard Back" width="300"/>
+  <img src="https://raw.githubusercontent.com/MNTadros/FidgetBoard/refs/heads/main/DOCS/IMGS/front.png" alt="FidgetBoard Front" width="300"/>
+  <img src="https://raw.githubusercontent.com/MNTadros/FidgetBoard/refs/heads/main/DOCS/IMGS/back.png" alt="FidgetBoard Back" width="300"/>
 </p>
