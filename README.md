@@ -12,7 +12,7 @@ This project combines tactile fun with basic electronics and serves as a great b
 
 ## 🌐 Live Docs
 
-Check out the full live documentation (images, model viewer, BOM, and more) [here](www.putthedoclinkhere.com).
+Check out the full live documentation (images, model viewer, BOM, and more) [here](https://mntadros.github.io/FidgetBoard/DOCS/).
 
 ## 💡 Version
 
